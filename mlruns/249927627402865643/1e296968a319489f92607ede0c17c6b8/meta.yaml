@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/1e296968a319489f92607ede0c17c6b8/artifacts
+end_time: 1734265006304
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: 1e296968a319489f92607ede0c17c6b8
+run_name: masked-robin-809
+run_uuid: 1e296968a319489f92607ede0c17c6b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264997792
+status: 3
+tags: []
+user_id: alibh

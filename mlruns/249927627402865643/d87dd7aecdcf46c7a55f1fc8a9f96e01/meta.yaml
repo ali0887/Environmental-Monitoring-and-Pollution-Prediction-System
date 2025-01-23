@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/d87dd7aecdcf46c7a55f1fc8a9f96e01/artifacts
+end_time: 1734264736129
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: d87dd7aecdcf46c7a55f1fc8a9f96e01
+run_name: debonair-sloth-836
+run_uuid: d87dd7aecdcf46c7a55f1fc8a9f96e01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264730335
+status: 3
+tags: []
+user_id: alibh

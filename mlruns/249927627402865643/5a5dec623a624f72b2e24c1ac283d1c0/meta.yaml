@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/5a5dec623a624f72b2e24c1ac283d1c0/artifacts
+end_time: 1734263024877
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: 5a5dec623a624f72b2e24c1ac283d1c0
+run_name: delightful-moth-150
+run_uuid: 5a5dec623a624f72b2e24c1ac283d1c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263018902
+status: 3
+tags: []
+user_id: alibh

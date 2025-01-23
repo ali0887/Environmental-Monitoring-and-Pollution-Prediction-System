@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/b2eb3b3aa22d4a50a0b5d361ef7b7dfe/artifacts
+end_time: 1734264700784
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: b2eb3b3aa22d4a50a0b5d361ef7b7dfe
+run_name: honorable-shoat-895
+run_uuid: b2eb3b3aa22d4a50a0b5d361ef7b7dfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264693545
+status: 3
+tags: []
+user_id: alibh

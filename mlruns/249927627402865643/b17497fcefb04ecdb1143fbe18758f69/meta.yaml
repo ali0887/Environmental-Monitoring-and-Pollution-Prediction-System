@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/b17497fcefb04ecdb1143fbe18758f69/artifacts
+end_time: 1734263050189
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: b17497fcefb04ecdb1143fbe18758f69
+run_name: smiling-seal-585
+run_uuid: b17497fcefb04ecdb1143fbe18758f69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263044938
+status: 3
+tags: []
+user_id: alibh

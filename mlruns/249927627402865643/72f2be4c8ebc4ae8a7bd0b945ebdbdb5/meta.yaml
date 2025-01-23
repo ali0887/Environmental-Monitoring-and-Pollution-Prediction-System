@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/72f2be4c8ebc4ae8a7bd0b945ebdbdb5/artifacts
+end_time: 1734263123450
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: 72f2be4c8ebc4ae8a7bd0b945ebdbdb5
+run_name: luminous-colt-475
+run_uuid: 72f2be4c8ebc4ae8a7bd0b945ebdbdb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263117166
+status: 3
+tags: []
+user_id: alibh

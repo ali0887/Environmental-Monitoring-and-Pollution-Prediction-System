@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/face8f66a37c4eb2b3cecd1d7091d2c9/artifacts
+end_time: 1734263272462
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: face8f66a37c4eb2b3cecd1d7091d2c9
+run_name: fortunate-kite-964
+run_uuid: face8f66a37c4eb2b3cecd1d7091d2c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263267099
+status: 3
+tags: []
+user_id: alibh

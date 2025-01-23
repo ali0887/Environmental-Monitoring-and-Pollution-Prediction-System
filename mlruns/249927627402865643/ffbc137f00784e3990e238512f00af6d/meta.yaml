@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/ffbc137f00784e3990e238512f00af6d/artifacts
+end_time: 1734264596349
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: ffbc137f00784e3990e238512f00af6d
+run_name: debonair-moose-849
+run_uuid: ffbc137f00784e3990e238512f00af6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264590563
+status: 3
+tags: []
+user_id: alibh

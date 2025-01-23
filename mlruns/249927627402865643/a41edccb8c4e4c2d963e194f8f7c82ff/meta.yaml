@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/a41edccb8c4e4c2d963e194f8f7c82ff/artifacts
+end_time: 1734263487994
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: a41edccb8c4e4c2d963e194f8f7c82ff
+run_name: fearless-bug-822
+run_uuid: a41edccb8c4e4c2d963e194f8f7c82ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263479266
+status: 3
+tags: []
+user_id: alibh

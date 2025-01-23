@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/de9e691cefe842e080abc837e7b0bffc/artifacts
+end_time: 1734264809490
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: de9e691cefe842e080abc837e7b0bffc
+run_name: unequaled-turtle-192
+run_uuid: de9e691cefe842e080abc837e7b0bffc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264803007
+status: 3
+tags: []
+user_id: alibh

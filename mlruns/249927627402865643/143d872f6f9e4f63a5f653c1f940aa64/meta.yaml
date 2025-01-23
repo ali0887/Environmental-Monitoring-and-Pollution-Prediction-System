@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/143d872f6f9e4f63a5f653c1f940aa64/artifacts
+end_time: 1734264655320
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: 143d872f6f9e4f63a5f653c1f940aa64
+run_name: delicate-fish-727
+run_uuid: 143d872f6f9e4f63a5f653c1f940aa64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264648373
+status: 3
+tags: []
+user_id: alibh

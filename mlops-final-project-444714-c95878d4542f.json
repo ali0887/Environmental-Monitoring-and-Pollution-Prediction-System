@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mlops-final-project-444714",
+  "private_key_id": "c95878d4542f94162d4d885f7cf078a85a7a7b81",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDOqbFe9ATHHO8A\nnCU19cJIeObClybSZe4dBwwiEY9Bar+EVkC4SAj03qCMGHnClDkUpwYjv+AfiH30\n8QcaHnPI3lGMrn459Vz3ep2ZuqFDTVXlK/KZeDv29jJsYIWa3kZ3x3VmH6wzwEDL\nnwjKn4a9jk0gtgoYOBFGm+omjlYJUKgnX+Qt6d3K8x/HEUt6hoFoyRZ+4FUztX4Y\nGYT/NFP0RzFSWVB8tq6GnjTVfXSJJUZn/HjH5QOcw+wl92Q/8dwcuNTJdFUnUimr\nl/2kgIPfjFAmrr88yyzuvr8+AZ/TetW66gRAoWYXoyH0i06Mkj8mlHFIb0+n+5Tj\nw90AJttJAgMBAAECggEAIEhexjvtISNybFB3+Zll24dTWNNew6AblZo7uXivvaLM\nvwHwQzkxePrr7maGYrBfyEudCGmZO6PJNUGPf/OA18Bu0cCSRECBYMFdLB38wfQr\nNkzqrTGcgGQOFWLwi/Qr4tscCjNpZX4jQQubRnesByFbCACXzBe6DyMc7R/v7a1N\nQnYlNk7Lv6SACnOFYLAyrVBl6lTnmQ8kUbEGB67mqIi95TWWgHwaQp9X8NfuQcpc\nZPsT/gP1IgTb0XspA2Y7JX4LN56qAlET6x3ereLRJ3+LicuHqIVCPe7TgCrShupt\nUj3GhmDRkdxQt7J6kpu31BWcd7bpgKMYhxxIWfchFwKBgQD3SQ2erem/llGXGBwe\n1Ku+pIdDgkKh/yhKvqH2XqB80n4I3qd/2VMingdhKPNg0nShSp+IjJfrIzEyJNlQ\n7Unu8ssLoqHyuE2vNQYeuR0PHOCkHYEyosAv4odwKlQgTjVuEX8dUfaw8SRuDtGh\n3f9XGzUKz3tsvdgmatZH7ogQ6wKBgQDV8idRtENVPt1hpm3YfA4Qb2899Qf6TG0o\nhqgwP8FuMgrQNORlpdY7G7L1Bwb0ebjhPu82WK9A3D9ZCOHl/3Epcqq20W3OheVa\nNoJsD19UPp7xaCMMPn9l1/Bn3t6HvdxvlaKlgzHKueVzazcpMplMDHyn98L7RPIT\n7r/Cct6XmwKBgEdB2Nfh25qmsUot22SS+g6MkKHGdncB9NVdC4TYDb0KVuEtb+zq\nbgdqrEu2JjO/UXZs733Erb5HPNTrQ2gLiKN/eT0YFzy/GTuktufBhfsl4iHIksNJ\nnMHvsAGFYQqSHtlh11RWmxSv2ESSppvTQdIS9/zufu194zxmyuqddL4TAoGAeprk\nB4GLWK3HBm/u4THuiWKi2Fm0ca8cmy3X8paGzhSld73n6YyI4aS1AJA/XxjmZ0a+\npWFbRYsyTl61vi2N9xe8VzpbeA/paLJ2OWDx24Bra6Km+xxRu9Zs8cmZsyaNzfBt\nnfY6MZgosuUNXnGdwiQhx8xHk+Fl7SBUCiX0A+MCgYBvVhPalkzzrwpkiCixawO8\nI+T7+KaSViHJqoQHq89ujlt1mWWB5cDnDN3q+gmedNk8862WxzWS6eaahumDMYt5\nULv3OGSNSQcbE8Tb554ARIIBdrYUzYsiNct6D+2jtZvyZI8DjvZCf+H3E/WU2yD0\nuVRbvMVRP2nYHU5pJO/AYw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mlops-project-dvc-account@mlops-final-project-444714.iam.gserviceaccount.com",
+  "client_id": "103184881716224630969",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mlops-project-dvc-account%40mlops-final-project-444714.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

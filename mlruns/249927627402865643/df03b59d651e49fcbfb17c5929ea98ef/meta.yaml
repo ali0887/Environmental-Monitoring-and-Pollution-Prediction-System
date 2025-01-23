@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/df03b59d651e49fcbfb17c5929ea98ef/artifacts
+end_time: 1734264570749
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: df03b59d651e49fcbfb17c5929ea98ef
+run_name: polite-croc-254
+run_uuid: df03b59d651e49fcbfb17c5929ea98ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264562809
+status: 3
+tags: []
+user_id: alibh

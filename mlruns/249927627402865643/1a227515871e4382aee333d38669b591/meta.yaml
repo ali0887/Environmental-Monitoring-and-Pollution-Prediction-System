@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/1a227515871e4382aee333d38669b591/artifacts
+end_time: 1734264954343
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: 1a227515871e4382aee333d38669b591
+run_name: classy-snake-477
+run_uuid: 1a227515871e4382aee333d38669b591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264946307
+status: 3
+tags: []
+user_id: alibh

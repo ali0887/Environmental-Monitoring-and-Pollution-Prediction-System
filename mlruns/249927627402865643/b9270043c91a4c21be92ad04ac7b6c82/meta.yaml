@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/b9270043c91a4c21be92ad04ac7b6c82/artifacts
+end_time: 1734264946293
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: b9270043c91a4c21be92ad04ac7b6c82
+run_name: adaptable-stoat-221
+run_uuid: b9270043c91a4c21be92ad04ac7b6c82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264938802
+status: 3
+tags: []
+user_id: alibh

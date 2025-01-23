@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/51f418075ae4446a95f183ff9da65a6b/artifacts
+end_time: 1734263298809
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: 51f418075ae4446a95f183ff9da65a6b
+run_name: burly-mink-747
+run_uuid: 51f418075ae4446a95f183ff9da65a6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263293657
+status: 3
+tags: []
+user_id: alibh

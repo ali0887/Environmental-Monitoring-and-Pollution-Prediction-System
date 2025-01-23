@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/fe04a0626ee84b53a986f4368a8a37dd/artifacts
+end_time: 1734264150063
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: fe04a0626ee84b53a986f4368a8a37dd
+run_name: suave-flea-893
+run_uuid: fe04a0626ee84b53a986f4368a8a37dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264138619
+status: 3
+tags: []
+user_id: alibh

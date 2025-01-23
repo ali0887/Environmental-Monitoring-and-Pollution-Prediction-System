@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/b62bc10a41814304857362aa2930f80e/artifacts
+end_time: 1734263924813
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: b62bc10a41814304857362aa2930f80e
+run_name: adorable-lark-873
+run_uuid: b62bc10a41814304857362aa2930f80e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263917380
+status: 3
+tags: []
+user_id: alibh

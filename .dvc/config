@@ -1,0 +1,7 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = gdrive://10CtnFhHMNmmr1XkFGjF_rUMc0Y-2eZ29
+    gdrive_use_service_account = true
+    gdrive_service_account_json_file_path = ../mlops-final-project-444714-c95878d4542f.json
+    gdrive_acknowledge_abuse = true

@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/cea755f82ba342ddb6b945f88c569a24/artifacts
+end_time: 1734262989957
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: cea755f82ba342ddb6b945f88c569a24
+run_name: gregarious-hare-695
+run_uuid: cea755f82ba342ddb6b945f88c569a24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734262984970
+status: 3
+tags: []
+user_id: alibh

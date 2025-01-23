@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/7ec67d0f2b0f4709b0396337accd677d/artifacts
+end_time: 1734264373281
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: 7ec67d0f2b0f4709b0396337accd677d
+run_name: adventurous-mole-167
+run_uuid: 7ec67d0f2b0f4709b0396337accd677d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264366007
+status: 3
+tags: []
+user_id: alibh

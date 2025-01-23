@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/d4ece708ffb34966aa9213384ee455ad/artifacts
+end_time: 1734264022105
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: d4ece708ffb34966aa9213384ee455ad
+run_name: valuable-gnat-962
+run_uuid: d4ece708ffb34966aa9213384ee455ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264014422
+status: 3
+tags: []
+user_id: alibh

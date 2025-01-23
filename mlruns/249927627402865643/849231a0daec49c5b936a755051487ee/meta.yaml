@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/849231a0daec49c5b936a755051487ee/artifacts
+end_time: 1734263256032
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: 849231a0daec49c5b936a755051487ee
+run_name: capable-cub-761
+run_uuid: 849231a0daec49c5b936a755051487ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263251372
+status: 3
+tags: []
+user_id: alibh

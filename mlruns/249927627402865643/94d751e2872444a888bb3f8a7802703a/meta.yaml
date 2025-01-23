@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/94d751e2872444a888bb3f8a7802703a/artifacts
+end_time: 1734264391984
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: 94d751e2872444a888bb3f8a7802703a
+run_name: salty-mink-190
+run_uuid: 94d751e2872444a888bb3f8a7802703a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264386125
+status: 3
+tags: []
+user_id: alibh

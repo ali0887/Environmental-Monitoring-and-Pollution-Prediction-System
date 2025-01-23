@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/abfb1911c9d243fa99704b63c6ca6c9a/artifacts
+end_time: 1734264453206
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: abfb1911c9d243fa99704b63c6ca6c9a
+run_name: marvelous-fly-214
+run_uuid: abfb1911c9d243fa99704b63c6ca6c9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264447410
+status: 3
+tags: []
+user_id: alibh

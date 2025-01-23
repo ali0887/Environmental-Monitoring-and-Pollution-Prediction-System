@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/f690e708743b4fa3bc11a2c3d2f801ca/artifacts
+end_time: 1734264162631
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: f690e708743b4fa3bc11a2c3d2f801ca
+run_name: tasteful-hound-734
+run_uuid: f690e708743b4fa3bc11a2c3d2f801ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264156211
+status: 3
+tags: []
+user_id: alibh

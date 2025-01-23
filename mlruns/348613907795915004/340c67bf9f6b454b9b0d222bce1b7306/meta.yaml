@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/348613907795915004/340c67bf9f6b454b9b0d222bce1b7306/artifacts
+end_time: 1734269666983
+entry_point_name: ''
+experiment_id: '348613907795915004'
+lifecycle_stage: active
+run_id: 340c67bf9f6b454b9b0d222bce1b7306
+run_name: experiment_12_16_0.1_0.001_30_16
+run_uuid: 340c67bf9f6b454b9b0d222bce1b7306
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734269652945
+status: 3
+tags: []
+user_id: alibh

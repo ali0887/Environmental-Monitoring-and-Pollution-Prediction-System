@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/d02a3fc57bea48d6b2597a173102ca4a/artifacts
+end_time: 1734263764394
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: d02a3fc57bea48d6b2597a173102ca4a
+run_name: efficient-bee-98
+run_uuid: d02a3fc57bea48d6b2597a173102ca4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263758959
+status: 3
+tags: []
+user_id: alibh

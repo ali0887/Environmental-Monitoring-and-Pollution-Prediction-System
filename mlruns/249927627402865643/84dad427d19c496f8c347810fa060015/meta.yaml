@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/84dad427d19c496f8c347810fa060015/artifacts
+end_time: 1734264075853
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: 84dad427d19c496f8c347810fa060015
+run_name: polite-eel-197
+run_uuid: 84dad427d19c496f8c347810fa060015
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264070772
+status: 3
+tags: []
+user_id: alibh

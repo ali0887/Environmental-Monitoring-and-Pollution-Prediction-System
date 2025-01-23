@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/b94c090b88dd41098ef6e0db5526e4be/artifacts
+end_time: 1734264099620
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: b94c090b88dd41098ef6e0db5526e4be
+run_name: zealous-skunk-979
+run_uuid: b94c090b88dd41098ef6e0db5526e4be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264093049
+status: 3
+tags: []
+user_id: alibh

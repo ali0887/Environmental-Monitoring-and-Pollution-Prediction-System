@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/ce7b5a8e8f17499685d649d155fe9291/artifacts
+end_time: 1734264823145
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: ce7b5a8e8f17499685d649d155fe9291
+run_name: welcoming-mole-75
+run_uuid: ce7b5a8e8f17499685d649d155fe9291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264816359
+status: 3
+tags: []
+user_id: alibh

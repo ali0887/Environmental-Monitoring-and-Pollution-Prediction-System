@@ -1,0 +1,16 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/860408837590322405/5f84abaf947d4e7fbcc9de9ab4bc73ff/artifacts
+deleted_time: 1734265667207
+end_time: 1734265634507
+entry_point_name: ''
+experiment_id: '860408837590322405'
+lifecycle_stage: deleted
+run_id: 5f84abaf947d4e7fbcc9de9ab4bc73ff
+run_name: stylish-dog-82
+run_uuid: 5f84abaf947d4e7fbcc9de9ab4bc73ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734265627907
+status: 4
+tags: []
+user_id: alibh

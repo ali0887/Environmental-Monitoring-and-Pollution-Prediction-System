@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/321dc0a2923f46bf8dc23e5c16df94ef/artifacts
+end_time: 1734263062734
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: 321dc0a2923f46bf8dc23e5c16df94ef
+run_name: classy-mouse-378
+run_uuid: 321dc0a2923f46bf8dc23e5c16df94ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263056159
+status: 3
+tags: []
+user_id: alibh

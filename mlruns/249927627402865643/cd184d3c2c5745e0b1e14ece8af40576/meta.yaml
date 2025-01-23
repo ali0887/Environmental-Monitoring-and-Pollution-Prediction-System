@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/cd184d3c2c5745e0b1e14ece8af40576/artifacts
+end_time: 1734264008320
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: cd184d3c2c5745e0b1e14ece8af40576
+run_name: popular-snake-976
+run_uuid: cd184d3c2c5745e0b1e14ece8af40576
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264002712
+status: 3
+tags: []
+user_id: alibh

@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/28bd4ebe7de547338e1640f2dbe4183f/artifacts
+end_time: 1734263315987
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: 28bd4ebe7de547338e1640f2dbe4183f
+run_name: fearless-penguin-325
+run_uuid: 28bd4ebe7de547338e1640f2dbe4183f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263308542
+status: 3
+tags: []
+user_id: alibh

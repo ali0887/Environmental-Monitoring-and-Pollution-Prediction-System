@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/3f4931f834a04cf0ac2cccb693701684/artifacts
+end_time: 1734264120499
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: 3f4931f834a04cf0ac2cccb693701684
+run_name: bedecked-gull-455
+run_uuid: 3f4931f834a04cf0ac2cccb693701684
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734264113117
+status: 3
+tags: []
+user_id: alibh

@@ -1,0 +1,16 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/327625403025428831/a87083faf25b42a1854adde39e5deeae/artifacts
+deleted_time: 1734265669924
+end_time: 1734265627871
+entry_point_name: ''
+experiment_id: '327625403025428831'
+lifecycle_stage: deleted
+run_id: a87083faf25b42a1854adde39e5deeae
+run_name: whimsical-fowl-45
+run_uuid: a87083faf25b42a1854adde39e5deeae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734265612204
+status: 3
+tags: []
+user_id: alibh

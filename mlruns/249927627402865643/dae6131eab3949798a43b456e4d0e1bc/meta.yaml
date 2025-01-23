@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/dae6131eab3949798a43b456e4d0e1bc/artifacts
+end_time: 1734262984956
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: dae6131eab3949798a43b456e4d0e1bc
+run_name: receptive-moose-466
+run_uuid: dae6131eab3949798a43b456e4d0e1bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734262979697
+status: 3
+tags: []
+user_id: alibh

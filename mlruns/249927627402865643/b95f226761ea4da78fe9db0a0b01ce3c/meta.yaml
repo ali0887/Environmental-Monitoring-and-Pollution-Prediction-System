@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Semester%207/MLOPs/course-project-ali0887/mlruns/249927627402865643/b95f226761ea4da78fe9db0a0b01ce3c/artifacts
+end_time: 1734263170234
+entry_point_name: ''
+experiment_id: '249927627402865643'
+lifecycle_stage: active
+run_id: b95f226761ea4da78fe9db0a0b01ce3c
+run_name: intelligent-foal-172
+run_uuid: b95f226761ea4da78fe9db0a0b01ce3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734263163751
+status: 3
+tags: []
+user_id: alibh
